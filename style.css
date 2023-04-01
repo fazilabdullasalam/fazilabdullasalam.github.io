@@ -1,0 +1,40 @@
+.container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: rgb(244, 65, 134);
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(244, 65, 134);
+    background-color: aqua;
+  }
+  
+  label {
+    font-style: oblique;
+    display: block;
+    margin: 10px 0;
+  }
+  
+  input[type="radio"],
+  input[type="checkbox"] {
+    margin: 0 5px;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+    background-color: aqua;
+  }
+  
+  #smoothie-result {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid aqua;
+    border-radius: 5px;
+    color: rgb(247, 150, 81);
+    font-style: italic;
+  }
+  
